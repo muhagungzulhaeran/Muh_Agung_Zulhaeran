@@ -1,7 +1,7 @@
 # Hi everyone!
 **I'm Muh Agung Zulhaeran**
 
-Mobile Development enthusiast and highly passionate undergraduate student from Politeknik Negeri Ujung Pandang, majoring in Computer and Network Engineering. Proficient in Kotlin, Java, SQLite, Android Studio, and MVVM design pattern with strong communication, problem solving, and adaptability skills. Dedicated to writing clean and maintainable code, with several project experiences in developing native Android apps, including successful funding for PKM .
+Mobile Development enthusiast and highly passionate undergraduate student from Politeknik Negeri Ujung Pandang, majoring in Computer and Network Engineering. Proficient in Kotlin, Java, SQLite, Android Studio, and MVVM design pattern with strong communication, problem solving, and adaptability skills. Dedicated to writing clean and maintainable code, with several project experiences in developing native Android apps, including successful funding for PKM 2024.
 
 If you're intrested in getting to know me, please contact me:</br>
 
