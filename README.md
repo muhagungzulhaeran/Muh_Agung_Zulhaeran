@@ -1,5 +1,5 @@
 # Hi everyone!
-**I'm Muh Agug Zulhaeran**
+**I'm Muh Agung Zulhaeran**
 
 Mobile Development enthusiast and highly passionated undergraduate student from Politeknik Negeri Ujung Pandang majoring in Computer and Network Engineering. Focusing in Mobile Development with several project experiences in building android mobile apps throughout college and in Bangkit Academy using kotlin and android studio. Passionate about writing clean and maintainable code.
 Possess various skills related to mobile development such as Kotlin, Java, MySQL and SQLite, as well as the problem-solving and communication skill. Enjoy writing clean and maintanable code using MVVM design pattern and SOLID programming principles. Able to work in a team to discuss new ideas in order to build suitable mobile app. 
