@@ -9,7 +9,7 @@ Whatsapp: +6289694954534</br>
 Email: kimmychimmya@gmail.com</br>
 Linked in: https://www.linkedin.com/in/muh-agung-zulhaeran/
 
-<p align="left">
+<p align="right">
 <a href="https://github.com/muhagungzulhaeran">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhagungzulhaeran&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhagungzulhaeran&layout=compact&theme=algolia"/>
